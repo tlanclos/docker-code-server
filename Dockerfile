@@ -23,7 +23,6 @@ RUN \
     libatomic1 \
     nano \
     net-tools \
-    netcat \
     sqlite3 \
     wget \
     sudo
